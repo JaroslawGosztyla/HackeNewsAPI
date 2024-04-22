@@ -1,1 +1,1 @@
-# HackeNewsAPI
+# HackerNewsAPI
